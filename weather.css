@@ -255,9 +255,6 @@ body {
 }
 
 @media (max-width: 450px) {
-    body {
-        background-color: red;
-    }
 
     .search input {
         border: 0;
@@ -301,9 +298,6 @@ body {
 
 
 @media (max-width: 400px) {
-    body {
-        background-color: blue;
-    }
 
     .search input {
         border: 0;
